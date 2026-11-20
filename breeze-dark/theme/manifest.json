@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "2.1",
+  "version": "2.2",
   "name": "Breeze Dark",
   "theme": {
     "images": {
@@ -29,7 +29,7 @@
       "button_background_active": "rgb(65, 68, 71)",
       "button_background_hover": "rgb(47, 53, 59)",
       "frame_inactive": "rgb(32, 35, 38)",
-      "icons_attention": "rgb(64, 72, 80)",
+      "icons_attention": "rgb(184, 156, 255)",
       "icons": "rgb(252, 252, 252)",
       "ntp_background": "rgb(20, 22, 24)",
       "ntp_text": "rgb(252, 252, 252)",
