@@ -1,0 +1,37 @@
+{
+  "manifest_version": 2,
+  "version": "1.1",
+  "name": "Material Purple Enhanced",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(24, 28, 61)",
+      "toolbar_text": "rgb(219, 220, 251)",
+      "frame": "rgb(24, 28, 61)",
+      "tab_background_text": "rgb(219, 220, 251)",
+      "toolbar_field": "rgb(12, 16, 46)",
+      "toolbar_field_text": "rgb(219, 220, 251)",
+      "tab_line": "rgb(219, 220, 251)",
+      "popup": "rgb(12, 16, 46)",
+      "popup_text": "rgb(219, 220, 251)",
+      "icons": "rgb(219, 220, 251)",
+      "ntp_background": "rgb(24, 28, 61)",
+      "ntp_text": "rgb(219, 220, 251)",
+      "popup_border": "rgb(191, 194, 246)",
+      "popup_highlight_text": "rgb(118, 119, 136)",
+      "popup_highlight": "rgb(75, 79, 198)",
+      "sidebar_highlight": "rgb(75, 79, 198)",
+      "sidebar_text": "rgb(191, 194, 246)",
+      "sidebar": "rgb(12, 16, 46)",
+      "toolbar_field_border": "rgb(118, 119, 136)",
+      "toolbar_field_text_focus": "rgb(219, 220, 251)",
+      "tab_loading": "rgb(219, 220, 251)"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{4135e5e0-5984-4fe2-ae7c-de61d82554bd}"
+    }
+  }
+}

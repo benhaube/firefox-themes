@@ -1,0 +1,19 @@
+{
+  "name": "Material-Navy-Blue",
+  "manifest_version": 2,
+  "version": "1.0",
+  "theme": {
+    "images": {
+      "theme_frame": "bitmap.png"
+    },
+    "colors": {
+      "frame": "rgba(4, 31, 61, 1)",
+      "tab_background_text": "rgba(175, 198, 247, 1)",
+      "toolbar": "rgba(46, 64, 90, 1)",
+      "bookmark_text": "rgba(175, 198, 247, 1)",
+      "toolbar_field": "rgba(3, 21, 42, 1)",
+      "toolbar_field_text": "rgba(175, 198, 247, 1)",
+      "tab_line": "rgba(175, 198, 247, 1)"
+    }
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "manifest_version": 2,
+  "version": "1.2",
+  "name": "Material-Dark-Forest",
+  "theme": {
+    "images": {},
+    "properties": {},
+    "colors": {
+      "toolbar": "rgb(0, 36, 41)",
+      "toolbar_text": "rgb(142, 208, 220)",
+      "frame": "rgb(0, 36, 41)",
+      "tab_background_text": "rgb(142, 208, 220)",
+      "toolbar_field": "rgb(0, 20, 23)",
+      "toolbar_field_text": "rgb(142, 208, 220)",
+      "tab_line": "rgb(142, 208, 220)",
+      "popup": "rgb(0, 20, 23)",
+      "popup_text": "rgb(142, 208, 220)",
+      "ntp_background": "rgb(0, 36, 41)",
+      "ntp_text": "rgb(142, 208, 220)",
+      "popup_border": "rgb(142, 208, 220)",
+      "popup_highlight_text": "rgb(36, 69, 73)",
+      "popup_highlight": "rgb(142, 208, 220)",
+      "sidebar": "rgb(0, 20, 23)",
+      "sidebar_border": "rgb(36, 69, 73)",
+      "sidebar_highlight_text": "rgb(36, 69, 73)",
+      "sidebar_highlight": "rgb(142, 208, 220)",
+      "sidebar_text": "rgb(142, 208, 220)",
+      "toolbar_field_border_focus": "rgb(142, 208, 220)",
+      "toolbar_field_border": "rgb(36, 69, 73)",
+      "toolbar_field_highlight_text": "rgb(36, 69, 73)",
+      "toolbar_field_highlight": "rgb(142, 208, 220)",
+      "toolbar_field_text_focus": "rgb(142, 208, 220)",
+      "toolbar_top_separator": "rgb(142, 208, 220)",
+      "toolbar_vertical_separator": "rgb(142, 208, 220)",
+      "tab_loading": "rgb(142, 208, 220)"
+    }
+  },
+    "browser_specific_settings": {
+    "gecko": {
+      "id": "{84a237dc-7559-4934-b750-ea8beb15df7a}"
+    }
+  }
+}

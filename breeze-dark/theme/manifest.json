@@ -1,0 +1,63 @@
+{
+  "manifest_version": 2,
+  "version": "2.1",
+  "name": "Breeze Dark",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(20, 22, 24)",
+      "toolbar_text": "rgb(252, 252, 252)",
+      "frame": "rgb(32, 35, 38)",
+      "tab_background_text": "rgb(161, 169, 177)",
+      "toolbar_field": "rgb(20, 22, 24)",
+      "toolbar_field_text": "rgb(252, 252, 252)",
+      "tab_line": "rgb(161, 169, 177)",
+      "popup": "rgb(20, 22, 24)",
+      "popup_text": "rgb(252, 252, 252)",
+      "button_background_active": "rgb(65, 68, 71)",
+      "button_background_hover": "rgb(47, 53, 59)",
+      "frame_inactive": "rgb(32, 35, 38)",
+      "icons_attention": "rgb(64, 72, 80)",
+      "icons": "rgb(252, 252, 252)",
+      "ntp_background": "rgb(20, 22, 24)",
+      "ntp_text": "rgb(252, 252, 252)",
+      "popup_border": "rgb(56, 56, 56)",
+      "popup_highlight": "rgb(56, 56, 56)",
+      "sidebar_border": "rgb(56, 56, 56)",
+      "sidebar_highlight": "rgb(56, 56, 56)",
+      "sidebar_text": "rgb(252, 252, 252)",
+      "sidebar": "rgb(20, 22, 24)",
+      "tab_background_separator": "rgb(56, 56, 56)",
+      "tab_loading": "rgb(161, 169, 177)",
+      "tab_selected": "rgb(65, 68, 71)",
+      "tab_text": "rgb(252, 252, 252)",
+      "toolbar_bottom_separator": "rgb(56, 56, 56)",
+      "toolbar_field_border_focus": "rgb(161, 169, 177)",
+      "toolbar_field_border": "rgb(56, 56, 56)",
+      "toolbar_field_focus": "rgb(20, 22, 24)",
+      "toolbar_field_highlight_text": "rgb(32, 35, 38)",
+      "toolbar_field_highlight": "rgb(161, 169, 177)",
+      "toolbar_field_separator": "rgb(56, 56, 56)",
+      "toolbar_field_text_focus": "rgb(252, 252, 252)",
+      "toolbar_top_separator": "rgb(56, 56, 56)",
+      "toolbar_vertical_separator": "rgb(39, 44, 49)"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{3333da79-3641-4ad7-beeb-19d81558d166}"
+    }
+  }
+}
