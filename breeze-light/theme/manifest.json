@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "version": "1.0",
+  "version": "2.0",
   "name": "Breeze Light",
   "theme": {
     "images": {
@@ -53,6 +53,11 @@
       "toolbar_field_text_focus": "rgb(35, 38, 41)",
       "toolbar_top_separator": "rgb(112, 125, 138)",
       "toolbar_vertical_separator": "rgb(112, 125, 138)"
+    }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{208408d5-228a-450c-879a-d9fc96797800}"
     }
   }
 }
