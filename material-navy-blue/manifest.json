@@ -4,7 +4,7 @@
   "version": "1.0",
   "theme": {
     "images": {
-      "theme_frame": "bitmap.png"
+      "theme_frame": "images/bitmap.png"
     },
     "colors": {
       "frame": "rgba(4, 31, 61, 1)",
