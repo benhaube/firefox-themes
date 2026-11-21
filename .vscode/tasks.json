@@ -1,0 +1,18 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Package Firefox Extension (.xpi)",
+      "type": "shell",
+      "command": "zip -r -FS ../extension.xpi * -x '*.git*' 'node_modules/*' '.vscode/*'",
+      "options": {
+        "cwd": "${workspaceFolder}"
+      },
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": []
+    }
+  ]
+}
