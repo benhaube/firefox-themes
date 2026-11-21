@@ -15,5 +15,10 @@
       "toolbar_field_text": "rgba(175, 198, 247, 1)",
       "tab_line": "rgba(175, 198, 247, 1)"
     }
+  },
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "{dc0110a2-05ed-4f3b-870e-b60d9a415016}"
+    }
   }
 }
